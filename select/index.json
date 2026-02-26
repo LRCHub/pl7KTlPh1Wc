@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "たまものまえ",
+  "base_artist": "水曜日のカンパネラ",
+  "createdAt": "2026-02-26T15:57:50.212490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tamamo no Mae [たまものまえ]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/01_Tamamo_no_Mae_[たまものまえ]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たまものまえ",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_たまものまえ_水曜日のカンパネラ.txt"
+    }
+  ]
+}
